@@ -1,0 +1,10 @@
+C:\Users\alvar\source\repos\Practica7\Practica7\obj\Debug\Practica7.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Practica7\Practica7\obj\Debug\Practica7.Form1.resources
+C:\Users\alvar\source\repos\Practica7\Practica7\obj\Debug\Practica7.Properties.Resources.resources
+C:\Users\alvar\source\repos\Practica7\Practica7\obj\Debug\Practica7.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\Practica7\Practica7\obj\Debug\Practica7.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Practica7\Practica7\bin\Debug\Practica7.exe.config
+C:\Users\alvar\source\repos\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\alvar\source\repos\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\alvar\source\repos\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\alvar\source\repos\Practica7\Practica7\obj\Debug\Practica7.pdb
