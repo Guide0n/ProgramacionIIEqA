@@ -1,0 +1,14 @@
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\bin\Debug\net8.0\Practica6Consola.exe
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\bin\Debug\net8.0\Practica6Consola.deps.json
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\bin\Debug\net8.0\Practica6Consola.runtimeconfig.json
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\bin\Debug\net8.0\Practica6Consola.dll
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\bin\Debug\net8.0\Practica6Consola.pdb
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\obj\Debug\net8.0\Practica6Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\obj\Debug\net8.0\Practica6Consola.AssemblyInfoInputs.cache
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\obj\Debug\net8.0\Practica6Consola.AssemblyInfo.cs
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\obj\Debug\net8.0\Practica6Consola.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\obj\Debug\net8.0\Practica6Consola.dll
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\obj\Debug\net8.0\refint\Practica6Consola.dll
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\obj\Debug\net8.0\Practica6Consola.pdb
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\obj\Debug\net8.0\Practica6Consola.genruntimeconfig.cache
+C:\Users\alvar\source\repos\Practica6Consola\Practica6Consola\obj\Debug\net8.0\ref\Practica6Consola.dll
