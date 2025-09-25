@@ -1,0 +1,14 @@
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.Form1.resources
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.Properties.Resources.resources
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.GenerateResource.cache
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.FdatosEstudiante.resources
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.FDatosGrupo.resources
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe.config
+C:\Users\dany_\source\repos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.FMostrarGrupo.resources

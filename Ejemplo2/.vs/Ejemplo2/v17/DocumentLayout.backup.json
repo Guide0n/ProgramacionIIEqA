@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|c:\\users\\dany_\\source\\repos\\ejemplo2\\ejemplo2\\fdatosgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\fdatosgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\fdatosgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\fdatosgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\fdatosestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\fdatosestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\fdatosestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\fdatosestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\datosgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\datosgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\datosestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\datosestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\fdatosgrupo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\fdatosgrupo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\fmostrargrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\fmostrargrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\fmostrargrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\fmostrargrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|C:\\Users\\dany_\\source\\repos\\Ejemplo2\\ejemplo2\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72924B54-93B6-41A8-8B08-DA24734D7C31}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FDatosGrupo.cs",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FDatosGrupo.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\FDatosGrupo.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FDatosGrupo.cs",
+              "RelativeToolTip": "Ejemplo2\\FDatosGrupo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:33:34.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FdatosEstudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FdatosEstudiante.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\FdatosEstudiante.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FdatosEstudiante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo2\\FdatosEstudiante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:16:29.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FdatosEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FdatosEstudiante.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\FdatosEstudiante.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FdatosEstudiante.cs",
+              "RelativeToolTip": "Ejemplo2\\FdatosEstudiante.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:22:26.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\Form1.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:09:31.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatosEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\DatosEstudiante.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\DatosEstudiante.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\DatosEstudiante.cs",
+              "RelativeToolTip": "Ejemplo2\\DatosEstudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T04:47:21.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FDatosGrupo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FDatosGrupo.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\FDatosGrupo.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FDatosGrupo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo2\\FDatosGrupo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:13:05.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatosGrupo.cs",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\DatosGrupo.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\DatosGrupo.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\DatosGrupo.cs",
+              "RelativeToolTip": "Ejemplo2\\DatosGrupo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T16:20:31.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\Form1.Designer.cs",
+              "RelativeToolTip": "Ejemplo2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T16:58:48.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FDatosGrupo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FDatosGrupo.Designer.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\FDatosGrupo.Designer.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FDatosGrupo.Designer.cs",
+              "RelativeToolTip": "Ejemplo2\\FDatosGrupo.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T04:00:17.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FMostrarGrupo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FMostrarGrupo.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\FMostrarGrupo.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FMostrarGrupo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo2\\FMostrarGrupo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T16:42:24.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\Form1.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\Form1.cs",
+              "RelativeToolTip": "Ejemplo2\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvykAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:14:55.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FMostrarGrupo.cs",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FMostrarGrupo.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\FMostrarGrupo.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\FMostrarGrupo.cs",
+              "RelativeToolTip": "Ejemplo2\\FMostrarGrupo.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAASwEcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T16:43:01.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Ejemplo2\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\dany_\\source\\repos\\Ejemplo2\\Ejemplo2\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Ejemplo2\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:30:21.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
